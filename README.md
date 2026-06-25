@@ -54,7 +54,3 @@ README.md
 * Docker containerization
 * Cloud deployment (AWS/GCP/Azure)
 
-## Author
-
-Your Name
-Aspiring Data Engineer
